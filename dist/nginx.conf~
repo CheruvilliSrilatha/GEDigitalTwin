@@ -73,7 +73,7 @@ http
         ## Login Routes
         location /login {
             access_by_lua '
-            local state = "/dashboards"
+            local state = "/about"
             if ngx.req.get_uri_args()["state"] ~= nil then
                 state = ngx.req.get_uri_args()["state"]
             end

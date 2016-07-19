@@ -1,1 +1,8 @@
-[]
+{
+"Employee":
+[
+{ "employee":"Vijay" , "Mobile":"9632054888" },
+      { "employee":"Deepa" , "Mobile":"9632054888" },
+      { "employee":"Teja" , "Mobile":"9632054888" }
+]
+}

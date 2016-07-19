@@ -42,7 +42,7 @@ define([
                 {icon: 'fa-tachometer', state: 'dashboards', label: 'Dashboards'},
                 {icon: 'fa-tachometer', state: 'demo', label: 'Demo'},
                 {icon: 'fa-tachometer', state: 'demo2', label: 'Demo2'},
-                {icon: 'fa-tachometer', state: 'employees', label: 'Employees'},
+                {icon: 'fa-tachometer', state: 'employees', label: 'Employees'},                
                 {icon: 'fa-file-o', state: 'blankpage', label: 'Blank Page', subitems: [
                     {state: 'blanksubpage', label: 'Blank Sub Page'}
                 ]}

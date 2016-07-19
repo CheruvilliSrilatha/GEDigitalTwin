@@ -26,7 +26,7 @@ var config = {
   proxy: {
     '/api/view-service': {
       url: 'https://predix-views.run.aws-usw02-pr.ice.predix.io',
-      instanceId: 'de8c33e0-dc3d-47d0-92cf-e9dd87cc76d6',
+      instanceId: 'your-view-service-guid-here',
       pathRewrite: { '^/api/view-service': '/v1'}
     }
   }
